@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch RotatingNumbers",
+            "request": "launch",
+            "mainClass": "RotatingNumbers",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExtractingDigits",
+            "request": "launch",
+            "mainClass": "ExtractingDigits",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonnaci",
+            "request": "launch",
+            "mainClass": "Fibonnaci",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Grading",
+            "request": "launch",
+            "mainClass": "Grading",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch InverseNumber",
+            "request": "launch",
+            "mainClass": "InverseNumber",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberBaseConv",
+            "request": "launch",
+            "mainClass": "NumberBaseConv",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch TempPracts",
+            "request": "launch",
+            "mainClass": "TempPracts",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch isPrime",
+            "request": "launch",
+            "mainClass": "isPrime",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        }
+    ]
+}

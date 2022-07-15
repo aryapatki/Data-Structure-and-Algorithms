@@ -3,8 +3,11 @@ import java.util.*;
 
 public class NumberBaseConv  {
   public static void main(String[] args) {
-    int n = 127;
-    int b = 8;
+    Scanner scn=new Scanner(System.in);
+    int n=scn.nextInt();
+    int b=scn.nextInt();
+    // int n = 127;
+    // int b = 8;
     int d = toDecimal(n, b);
     System.out.println(d);
   }

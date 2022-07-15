@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "PepCoding/Level1/Basics of Programming",
-        "PepCoding"
+        "PepCoding",
+        "MixPractise/Strings"
     ]
 }
