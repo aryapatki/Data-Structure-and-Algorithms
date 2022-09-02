@@ -6,6 +6,181 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LongestConsecutiveSequence",
+            "request": "launch",
+            "mainClass": "LongestConsecutiveSequence",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch IsValidSudoku",
+            "request": "launch",
+            "mainClass": "IsValidSudoku",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProductOfArrayExceptSelf",
+            "request": "launch",
+            "mainClass": "ProductOfArrayExceptSelf",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoSum",
+            "request": "launch",
+            "mainClass": "TwoSum",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch TopKFrequentElements",
+            "request": "launch",
+            "mainClass": "TopKFrequentElements",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch GroupAnagrams",
+            "request": "launch",
+            "mainClass": "GroupAnagrams",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ValidAnagram",
+            "request": "launch",
+            "mainClass": "ValidAnagram",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch ContainsDuplicate",
+            "request": "launch",
+            "mainClass": "ContainsDuplicate",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch QueueUsingArray",
+            "request": "launch",
+            "mainClass": "QueueUsingArray",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackColllection",
+            "request": "launch",
+            "mainClass": "StackColllection",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackArrayList",
+            "request": "launch",
+            "mainClass": "StackArrayList",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackLinkedList",
+            "request": "launch",
+            "mainClass": "StackLinkedList",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern8",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern8",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern7",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern7",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern6",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern6",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern5",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern5",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern4",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern4",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern3",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern3",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern2",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern2",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pattern1",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern1",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch BenjaminBulbs",
+            "request": "launch",
+            "mainClass": "BenjaminBulbs",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch PythagoreanTriplet",
+            "request": "launch",
+            "mainClass": "PythagoreanTriplet",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeFactor",
+            "request": "launch",
+            "mainClass": "PrimeFactor",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch GCD_LCM",
+            "request": "launch",
+            "mainClass": "GCD_LCM",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
+            "name": "Launch GCD",
+            "request": "launch",
+            "mainClass": "GCD",
+            "projectName": "Data-Structure-and-Algorithms_d36efb4f"
+        },
+        {
+            "type": "java",
             "name": "Launch RotatingNumbers",
             "request": "launch",
             "mainClass": "RotatingNumbers",

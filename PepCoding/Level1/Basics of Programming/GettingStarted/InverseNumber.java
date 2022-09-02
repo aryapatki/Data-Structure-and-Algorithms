@@ -1,6 +1,7 @@
 /**
  * InverseNumber
  */
+package GettingStarted;
 import java.util.Scanner;
 
 public class InverseNumber {

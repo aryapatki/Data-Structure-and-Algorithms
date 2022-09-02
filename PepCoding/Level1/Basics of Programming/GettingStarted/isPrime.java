@@ -1,3 +1,4 @@
+package GettingStarted;
 // Time Complexity:
 // O(t * square root n)
 

@@ -1,7 +1,11 @@
 {
     "java.project.sourcePaths": [
+        "STACK",
+        "QUEUE",
         "PepCoding/Level1/Basics of Programming",
         "PepCoding",
-        "MixPractise/Strings"
+        "MixPractise/Strings",
+        "Arrays",
+        "LEETCODE/Arrays"
     ]
 }

@@ -1,3 +1,4 @@
+package GettingStarted;
 import java.util.*;
 
 public class RotatingNumbers {
@@ -77,14 +78,14 @@ public class RotatingNumbers {
     // pepcoding ans
 
     public static void main(String[] args) {
-        // Scanner scn=new Scanner(System.in);
-        // int num=scn.nextInt();
-        // int k=scn.nextInt();
+        Scanner scn=new Scanner(System.in);
+        int num=scn.nextInt();
+        int k=scn.nextInt();
         // int num=72076559;
         // int k=-160451990;
        
-        int num=1230456;
-        int k=-5;
+        // int num=1230456;
+        // int k=-5;
         System.out.println(rotNum(num, k));;
         
     }
